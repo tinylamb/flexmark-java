@@ -5,6 +5,10 @@
 out/
 
 # IntelliJ IDEA
+.idea
+.idea/*
+*.iml
+**/*.iml
 
 # Maven
 target/
